@@ -14,8 +14,9 @@ An optional node annotation/enrichment file can be uploaded to give color scheme
 
 #### Sample data
 
-Please see example data (long-shape data.frame) from github repository for a [MEGENA module hierarchy file](https://raw.githubusercontent.com/mw201608/sunburst.shiny/master/example/hierarchy.txt), and a [module enrichment file](https://raw.githubusercontent.com/mw201608/sunburst.shiny/master/example/enrichment.tsv).
+Please see example data (long-shape data.frame) from github repository for a [MEGENA module hierarchy file](https://raw.githubusercontent.com/mw201608/sunburst.shiny/master/example/hierarchy.txt), and a [module enrichment file](https://raw.githubusercontent.com/mw201608/sunburst.shiny/master/example/enrichment.tsv). See below the example output from this data.
 
+<img src="https://github.com/mw201608/sunburst.shiny/blob/master/ex1.png" width="500px">
 
 #### Disclaimer
 
