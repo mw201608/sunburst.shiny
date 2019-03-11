@@ -1,6 +1,6 @@
 #### What is?
 
-[`Hierarchy Sunburst Plot App`](https://network.shinyapps.io/sunburst/) is a simple web-based interface to create sunburst visulization of a network hierarchy.
+[`Hierarchy Sunburst Plot App`](https://network.shinyapps.io/sunburst/) is a versatile and user-friendly web application for creating sunburst visulization of a network hierarchy. It is developed based on R packages [NetWeaver](https://github.com/mw201608/NetWeaver) and shiny.
 
 #### Required input
 
